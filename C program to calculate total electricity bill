@@ -1,0 +1,13 @@
+#include<stdio.h>
+
+int main()
+
+{
+
+int unit;
+
+double bill;
+
+printf("Enter number of units consumed: ");
+
+scanf("%d", &units);
